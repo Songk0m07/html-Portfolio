@@ -1,0 +1,103 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.container
+{
+    width: 2000px;
+    height: 1250px;
+    background-color: #a7d9f6;
+}
+.first-box
+{
+    width: 510px;
+    height: 310px;
+    background-image: url(/Images/paulstudio.jpg);
+    background-size: cover;
+    border-radius: 10px;
+    position: absolute;
+    top: 12px;
+    left: 12px;
+}
+.second-box
+{
+    width: 310px;
+    height: 700px;
+    background-image: url(/Images/mice.jpg);
+    background-size: cover;
+    border-radius: 10px;
+    position: absolute;
+    top: 488px;
+    left: 530px;
+}
+.third-box
+{
+    width: 660px;
+    height: 700px;
+    background-image: url(/Images/casio.jpg);
+    background-size: cover;
+    border-radius: 10px;
+    position: absolute;
+    top: 488px;
+    left: 848px;
+}
+.forth-box
+{
+    width: 476px;
+    height: 489px;
+    background-image: url(/Images/drm.jpg);
+    background-size: cover;
+    border-radius: 10px;
+    position: absolute;
+    top: 12px;
+    left: 1516px;
+}
+.fifth-box
+{
+    width: 476px;
+    height: 679px;
+    background-image: url(/Images/guitar.jpg);
+    background-size: cover;
+    border-radius: 10px;
+    position: absolute;
+    top: 510px;
+    left: 1516px;
+}
+.sixt-box
+{
+    width: 978px;
+    height: 466px;
+    background-image: url(/Images/std.jpg);
+    background-size: cover;
+    border-radius: 10px;
+    position: absolute;
+    top: 12px;
+    left: 530px;
+}
+.seventh-box
+{
+    width: 510px;
+    height: 858px;
+    background-image: url(/Images/drmset.jpg);
+    background-size: cover;
+    border-radius: 10px;
+    position: absolute;
+    top: 330px;
+    left: 12px;
+}
+.home a
+{
+    text-decoration: none;
+    position: relative;
+    font-size: 30px;
+    font-family: 'lucida sans regular';
+    letter-spacing: 2px;
+    top: 1200px;
+    left: 1850px;
+    color: rgb(250, 250, 247);
+}
+.home a:hover
+{
+    color: red;
+}

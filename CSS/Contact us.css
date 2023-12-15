@@ -1,0 +1,144 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+body
+{
+    width: 100%;
+    background-image: url(/Images/Background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container
+{
+    width: 605px;
+    height: 300px;
+    background-image: url(/Images/Pg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 60px;
+    position: relative;
+    margin: 0px auto;
+    top: 95px;
+}
+.whatsapp
+{
+    width: 200px;
+    height: 300px;
+    position: fixed;
+    margin: 5px;
+}
+.whatsapp .Whlogo
+{
+    width: 200px;
+    height: 200px;
+    background-image: url(/Images/Whatsapp.png);
+    background-size: cover;
+    margin: 0 auto;
+    position: relative;
+    top: 40px;
+    
+}
+.whatsapp h3
+{
+    position: absolute;
+    letter-spacing: 2px;
+    top: 210px;
+    left: 44px;
+}
+.whatsapp h4
+{
+    position: absolute;
+    letter-spacing: 2px;
+    top: 230px;
+    left: 54px;
+}
+.YOUTUBE
+{
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    left: 200px;
+    margin: 5px;
+}
+.YOUTUBE .Ytlogo
+{
+    width: 220px;
+    height: 220px;
+    background-image: url(/Images/Youtube.png);
+    background-size: cover;
+    position: relative;
+    margin: 0 auto;
+    top: 33px;
+}
+.YOUTUBE h3
+{
+    position: absolute;
+    letter-spacing: 2px;
+    top: 210px;
+    left: 58px;
+}
+.YOUTUBE h4
+{
+    position: absolute;
+    letter-spacing: 2px;
+    top: 230px;
+    left: 12px;
+}
+.PHONE
+{
+    width: 187px;
+    height: 286px;
+    position: absolute;
+    left: 400px;
+    margin: 5px;
+}
+.PHONE .Phlogo
+{
+    width: 200px;
+    height: 200px;
+    background-image: url(/Images/Phone.png);
+    background-size: cover;
+    position: relative;
+    margin: 0 auto;
+    top: 40px;
+}
+.PHONE h3
+{
+    position: absolute;
+    letter-spacing: 2px;
+    top: 210px;
+    left: 70px;
+}
+.PHONE h4
+{
+    position: absolute;
+    letter-spacing: 2px;
+    top: 230px;
+    left: 56px;
+}
+a
+{
+    text-decoration: none;
+    color: #000;
+}
+a:hover
+{
+    color: rgb(221, 23, 20);
+}
+body .home a
+{
+    text-decoration: none;
+    font-size: 30px;
+    position: absolute;
+    font-family: 'Lucida Sans Regular';
+    letter-spacing: 2px;
+    top: 600px;
+    left: 735px;
+    color: #fff;
+}
+body .home a:hover
+{
+    color: rgb(249, 23, 219);
+}
